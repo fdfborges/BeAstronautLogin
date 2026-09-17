@@ -50,19 +50,6 @@ Este projeto foi criado para praticar:
 - Organização de um projeto Front-End
 - Git e GitHub
 
-## 🚧 Próximos passos
-
-- [ ] Tela de cadastro
-- [ ] Recuperação de senha
-- [ ] Validação completa com JavaScript
-- [ ] Integração com backend
-- [ ] Autenticação real
-- [ ] Login com Google
-- [ ] Login com Facebook
-- [ ] Perfil do astronauta
-- [ ] Sistema de missões
-- [ ] Dashboard do explorador
-
 ## 🚀 Como executar
 
 Clone o repositório:
